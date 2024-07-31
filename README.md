@@ -3,7 +3,7 @@ Soy un Desarrollador de Software apasionado por crear soluciones a traves de mis
 
 Abierto a oportunidades de colaborar en proyectos y crear aplicaciones 🛠️
 
-## Tecnologías conocidas
+## Tecnologías conocidas ✔️
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,py,java,js,react,mysql,postman,git,nodejs,vscode,eclipse)](https://skillicons.dev)
 <!--
 **UrielReyess08/UrielReyess08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
