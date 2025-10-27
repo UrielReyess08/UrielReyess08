@@ -1,7 +1,7 @@
 ## Hola, soy Uriel 👋
-Soy un Desarrollador de Software apasionado por crear soluciones a traves de mis proyectos web, mi gusto por la tecnología me ha llevado a un alto conocimento sobre lenguajes de programación mejorando mis habilidades en el ámbito haciendolo emocionante. 🚀
+Soy un Analista de Datos en formación, apasionado por transformar información en decisiones estratégicas. Me gusta explorar herramientas como Power BI, Python y SQL para crear soluciones basadas en datos. 🚀
 
-Abierto a oportunidades de colaborar en proyectos y crear aplicaciones 🛠️
+Abierto a colaborar en proyectos de análisis, BI e innovación digital. 🛠️
 
 ## Tecnologías conocidas ✔️
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,py,java,js,react,mysql,postman,git,nodejs,vscode,eclipse)](https://skillicons.dev)
